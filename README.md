@@ -16,7 +16,7 @@ It was a great hands-on experience to understand layout design, page structure, 
 
 ## 📸 Project Screenshot
 
-amazon clone.png.png
+screen short.png
 
 ---
 
