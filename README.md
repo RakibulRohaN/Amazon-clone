@@ -1,4 +1,3 @@
-# Amazon-clone
 # 🛍️ Amazon Homepage Clone
 
 This is my **first front-end clone project** — a simplified version of the Amazon landing page built using only **HTML** and **CSS**.
